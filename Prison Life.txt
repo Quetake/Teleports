@@ -1,0 +1,2 @@
+local placeid = 155615604
+game:GetService("TeleportService"): Teleport(placeid,plr)
